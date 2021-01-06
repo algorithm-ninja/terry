@@ -20,7 +20,7 @@
     "@types/react-modal": "^3.1.2",
     "@types/react-router-dom": "^5.1.5",
     "@types/react-tooltip": "^3.3.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "blob-polyfill": "^4.0.20200601",
     "bootstrap": "^4.1.0",
     "core-js": "^3.6.5",
